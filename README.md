@@ -35,4 +35,8 @@
     ```
     pip install jupyter
     ```
+6. Jupyter NotebookをVSCodeで開く
+    コマンドパレットを開く(表示⇨コマンドパレットor Shift+⌘+P)
+    Create New Jupyter Notebookを入力してリターンキー
+    あとはその画面で、Jupyter Notebookを利用する。ログは、VSCodeのいつもの方法でファイル保存できる
     
